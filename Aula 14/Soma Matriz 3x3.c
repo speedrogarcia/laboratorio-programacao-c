@@ -15,7 +15,7 @@ int main() {
         }
     }
 
-    printf("A soma dos elementos e: %d\n", soma);
+    printf("A soma dos elementos é: %d\n", soma);
 
     return 0;
 }
